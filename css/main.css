@@ -1,0 +1,53 @@
+/*Fonts*/
+@import "http://webfonts.ru/import/roboto.css";
+/*font-family: 'Roboto';*/
+/*Color*/
+/*Size*/
+/*Body*/
+h1 { font-family: 'Museo Sans Cyrl 900'; font-size: 50px; }
+
+h3 { font-family: 'Roboto'; font-weight: 600; }
+
+h5 { font-family: 'Roboto'; font-weight: 600; }
+
+/*Header*/
+#header { background: url("../img/fon.jpg") no-repeat; background-position: 50% 0%; padding-bottom: 8.5em; max-height: 720px; }
+#header .navbar-default { background-color: transparent; border-color: transparent; padding-top: 10px; }
+#header .navbar-default .navbar-nav > .active > a, #header .navbar-default .navbar-nav > .active > a:focus, #header .navbar-default .navbar-nav > .active > a:hover { background-color: transparent; color: #ff9500; }
+#header .navbar-default .navbar-nav > li > a { color: #252525; font-size: 16px; font-family: 'Roboto'; font-weight: 600; }
+#header .navbar-default .navbar-nav > li > a:focus, #header .navbar-default .navbar-nav > li > a:hover { color: #ff9500; }
+#header .navbar-default .navbar-collapse, #header .navbar-default .navbar-form { margin-top: 20px; }
+#header .head { margin-top: 110px; }
+#header .head .name-s { margin-top: 16px; padding: 0px 63px 10px 37px; background-color: rgba(0, 0, 0, 0.87); display: inline-block; }
+#header .head .name-s h1 { color: #fda015; }
+#header .head .name-s h1 span { color: #eaeaea; }
+#header .head .forma { background-color: rgba(0, 0, 0, 0.87); padding: 29px 43px 25px; }
+#header .head .forma h3 { color: #fff; font-size: 23px; margin-bottom: 18px; }
+#header .head .forma h3 span { color: #fda015; font-size: 23px; }
+#header .head .forma .op { margin-top: 30px; }
+#header .head .forma .op p { color: #fff; font-weight: 600; }
+#header .head .forma .op h3 { margin-top: 0px; }
+#header .head .forma .form-control { border-radius: 0px; height: 48px; border: 1px solid #d1d1d1; outline: none  !important; }
+#header .head .forma .btn { border-radius: 0px; background-color: #ffdd02; border-color: transparent !important; outline: none  !important; }
+
+#catalog { background: url("../img/catalog-fon.jpg") no-repeat; background-position: 50% 0%; height: 811px; margin-bottom: 3em; }
+#catalog h3 { font-family: 'Museo Sans Cyrl 900'; margin-top: 39px; margin-bottom: 25px; }
+#catalog .box-c { margin-top: 10px; }
+#catalog .box-c a { color: #252525; text-decoration: none; -webkit-transition: all .2s ease-in-out; transition: all .2s ease-in-out; }
+#catalog .box-c a .box-i { position: relative; height: 110px; }
+#catalog .box-c a .box-i img { position: absolute; bottom: 0px; }
+#catalog .box-c a p { margin-top: 25px; margin-bottom: 56px; font-weight: 600; }
+#catalog .box-c:hover a { color: #fda015; }
+
+#preim { background: url("../img/preim-fon.jpg") no-repeat; background-position: 50% 0%; padding-bottom: 4em; }
+#preim h3 { font-family: 'Museo Sans Cyrl 900'; margin-top: 39px; margin-bottom: 25px; color: #fff; }
+#preim .box-ico { margin-bottom: 3em; }
+#preim .box-ico .box-i { height: 70px; margin-top: 50px; position: relative; }
+#preim .box-ico .box-i img { bottom: 0px; }
+#preim .box-ico h5 { color: #fff; font-size: 18px; }
+#preim .btn-warning { height: 50px; background-color: #ffdd02; color: #252525; text-shadow: 1px 0px 1px rgba(37, 37, 37, 0.6); font-size: 18px; padding-left: 40px; padding-right: 40px; border-radius: 0px; }
+
+#partner { margin-bottom: 3em; }
+#partner h3 { font-family: 'Museo Sans Cyrl 900'; margin-top: 39px; margin-bottom: 25px; }
+
+/*# sourceMappingURL=main.css.map */

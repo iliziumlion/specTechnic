@@ -1,0 +1,203 @@
+/*Fonts*/
+@import "http://webfonts.ru/import/roboto.css";
+/*font-family: 'Roboto';*/
+
+
+
+/*Color*/
+$color-text: #252525;
+$white: #fff;
+$orange: #fda015;
+
+/*Size*/
+
+
+/*Body*/
+body {
+
+}
+
+h1,h2,h3,h4,h5,h6 {}
+
+h1 {font-family:'Museo Sans Cyrl 900';font-size:50px}
+h2 {}
+h3 {font-family: 'Roboto';font-weight: 600;}
+h4 {}
+h5 {font-family: 'Roboto';font-weight: 600;}
+h6 {}
+
+a {
+	&:hover {
+
+	}
+}
+
+p {
+
+}
+
+/*Header*/
+#header {
+	background: url('../img/fon.jpg') no-repeat;
+	background-position: 50% 0%;
+	padding-bottom: 8.5em;
+	max-height: 720px;
+	.navbar-default {
+		background-color: transparent;
+		border-color: transparent;
+		padding-top: 10px;
+	}
+	.navbar-default .navbar-nav>.active>a, 
+	.navbar-default .navbar-nav>.active>a:focus, 
+	.navbar-default .navbar-nav>.active>a:hover {
+		background-color: transparent;
+		color: #ff9500;
+	}
+	.navbar-default .navbar-nav>li>a {
+		color: #252525;
+		font-size: 16px;
+		font-family: 'Roboto';
+		font-weight: 600;
+	}
+	.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+		color: #ff9500;
+	}
+	.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+		margin-top: 20px;
+	}
+	.head {
+		margin-top: 110px;
+		.name-s {
+			margin-top: 16px;
+			padding: 0px 63px 10px 37px; 
+			background-color: rgba(0,0,0,0.87);
+			display: inline-block;
+			h1 {
+				color: #fda015;
+				span {
+					color: #eaeaea;
+				}
+			}
+		}
+		.forma {
+			background-color: rgba(0,0,0,0.87);
+			padding: 29px 43px 25px;
+			h3 {
+				color: #fff;
+				font-size: 23px;
+				margin-bottom: 18px;
+				span {
+					color: #fda015;
+					font-size: 23px;
+				}
+			}
+			.op {
+				margin-top: 30px;
+				p {
+					color: #fff;
+					font-weight: 600;
+				}
+				h3 {
+					margin-top: 0px;
+				}
+			}
+			.form-control {
+				border-radius: 0px;
+				height: 48px;
+				border:1px solid #d1d1d1;
+				outline: none  !important;
+			}
+			.btn {
+				border-radius: 0px;
+				background-color: #ffdd02;
+				border-color: transparent !important; 
+				outline: none  !important;
+			}
+		}
+	}
+}
+
+#catalog {
+	background: url('../img/catalog-fon.jpg') no-repeat;
+	background-position: 50% 0%;
+	height: 811px;
+	margin-bottom: 3em;
+	h3 {
+		font-family:'Museo Sans Cyrl 900';
+		margin-top: 39px;
+		margin-bottom: 25px;
+	}
+	.box-c  {
+		margin-top: 10px;
+		a {
+			color: $color-text;
+			text-decoration: none;
+			transition: all .2s ease-in-out; 
+			.box-i {
+				position: relative;
+				height: 110px;
+				img {
+					position: absolute;
+					bottom: 0px;
+				}
+			}
+			p {
+				margin-top: 25px;
+				margin-bottom: 56px;
+				font-weight: 600;
+			}
+		}
+		&:hover {
+			a {
+				color: $orange;
+			}
+		}
+	}
+}
+
+#preim {
+	background: url('../img/preim-fon.jpg') no-repeat;
+	background-position: 50% 0%;
+	padding-bottom: 4em;
+	h3 {
+		font-family:'Museo Sans Cyrl 900';
+		margin-top: 39px;
+		margin-bottom: 25px;
+		color: #fff;
+	}
+	.box-ico {
+		margin-bottom: 3em;
+		.box-i {
+			height: 70px;
+			margin-top: 50px;
+			position: relative;
+			img {
+				bottom: 0px;
+			}
+		}
+		h5 {
+			color:#fff;
+			font-size: 18px;
+		}
+	} 
+	.btn-warning {
+		height: 50px;
+		background-color: #ffdd02;
+		color: $color-text;
+		text-shadow: 1px 0px 1px rgba($color-text, 0.6); 
+		font-size: 18px;
+		padding-left: 40px;
+		padding-right: 40px;
+		border-radius: 0px;
+
+	}
+} 
+
+#partner {
+	margin-bottom: 3em;
+	h3 {
+		font-family:'Museo Sans Cyrl 900';
+		margin-top: 39px;
+		margin-bottom: 25px;
+	}
+}
