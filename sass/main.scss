@@ -22,7 +22,7 @@ h1,h2,h3,h4,h5,h6 {}
 h1 {font-family:'Museo Sans Cyrl 900';font-size:50px}
 h2 {}
 h3 {font-family: 'Roboto';font-weight: 600;}
-h4 {}
+h4 {font-family:'Museo Sans Cyrl 900';}
 h5 {font-family: 'Roboto';font-weight: 600;}
 h6 {}
 
@@ -199,5 +199,48 @@ p {
 		font-family:'Museo Sans Cyrl 900';
 		margin-top: 39px;
 		margin-bottom: 25px;
+	}
+	.slick-slide {
+		outline: none !important;
+	}
+}
+
+#map {
+	height: 355px;
+}
+
+#footer {
+	background: url('../img/footer.jpg') no-repeat;
+	background-position: 50% 0%;
+	padding-top: 4em;
+	padding-bottom: 4em;
+	h4 {
+		color: #ff9500;
+		font-family:'Museo Sans Cyrl 900';
+		margin-bottom: 2em;
+	}
+	h3 {
+		margin-top: 10px;
+		color: #ffdd02;
+	}
+	h4.mail {
+		color: #ffdd02;
+		font-family: 'Roboto';
+		font-weight: 600;
+	} 
+	h5 {
+		color: $white;
+	}
+	ul li a {
+		color: $white;
+		font-family: 'Roboto';
+		font-weight: 600;
+		text-decoration: none;
+		&:hover,
+		&:active,
+		&:focus {
+			color: #ff9500;
+			text-decoration: none;
+		}
 	}
 }
