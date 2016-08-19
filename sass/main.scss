@@ -1,3 +1,653 @@
+<<<<<<< HEAD
+/*Fonts*/
+@import "http://webfonts.ru/import/museosanscyrl.css";
+/*font-family: 'Museo Sans Cyrl';*/
+@import "http://webfonts.ru/import/roboto.css";
+/*font-family: 'Roboto';*/
+
+@font-face {
+	font-family: 'Museo Sans Cyrl 900';
+	src: url('../fonts/MuseoSansCyrl900.eot');
+	src: local('☺'), url('../fonts/MuseoSansCyrl900.woff') format('woff'), url('../fonts/MuseoSansCyrl900.ttf') format('truetype'), url('../fonts/MuseoSansCyrl900.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+$font-mus9:'Museo Sans Cyrl 900';
+
+/*Color*/
+$color-text: #252525;
+$white: #fff;
+$black: #000;
+$orange: #fda015;
+
+/*Size*/
+
+
+/*Body*/
+body {
+
+}
+
+h1,h2,h3,h4,h5,h6 {}
+
+h1 {font-family: $font-mus9;font-size:50px; font-weight: 900;}
+h2 {}
+h3 {font-family: 'Roboto';}
+h4 {font-family: $font-mus9;}
+h5 {font-family: 'Roboto';}
+h6 {}
+
+a {
+	&:hover {
+		text-decoration: none;
+	}
+}
+
+p {
+
+}
+
+/*Header*/
+#header {
+	z-index: 2;
+	padding-bottom: 8.5em;
+	position: absolute;
+	width: 100%;
+	top: 0px;
+	@media screen and (min-width: 320px) and (max-width: 768px) {
+		background-size: cover;
+		max-height: 100%;
+	}
+	
+	.navbar-default {
+		background-color: transparent;
+		border-color: transparent;
+		padding-top: 10px;
+	}
+	.navbar-default .navbar-nav>.active>a, 
+	.navbar-default .navbar-nav>.active>a:focus, 
+	.navbar-default .navbar-nav>.active>a:hover {
+		background-color: transparent;
+		color: #fe9800;
+	}
+	.navbar-default .navbar-nav>li>a {
+		color: $black;
+		font-size: 16px;
+		font-family: 'Roboto';
+		font-weight: 600;
+	}
+	.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+		color: #fe9800;
+	}
+	.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+		margin-top: 20px;
+	}
+	.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+		border-color: transparent;
+	}
+	.navbar-toggle {
+		background-color: $black;
+	}
+	.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+		background-color: $black;
+	}
+	.navbar-default .navbar-toggle .icon-bar {
+		background-color: #fda015;
+	}
+	.navbar-toggle {
+		border: 1px solid transparent;
+    border-radius: 0px;
+	}
+	.navbar-toggle .icon-bar {
+		width: 25px;
+    height: 4px;
+    border-radius: 0px;
+	}
+	.head {
+		margin-top: 110px;
+		.name-s {
+			margin-top: 16px;
+			margin-bottom: 16px;
+			padding: 0px 63px 10px 37px; 
+			background-color: rgba(0,0,0,0.87);
+			display: inline-block;
+			h1 {
+				color: #fda015;
+				span {
+					color: #eaeaea;
+				}
+			}
+			@media screen and (min-width: 435px) and (max-width: 768px) {
+				padding: 0px 0px 10px 0px;
+				width: 100%;
+				text-align: center;
+				h1 {
+					font-size: 29px;
+				}
+			}
+			@media screen and (min-width: 375px) and (max-width: 435px) {
+				padding: 0px 0px 10px 0px;
+				width: 100%;
+				text-align: center;
+				h1 {
+					font-size: 29px;
+				}
+			}
+			@media screen and (min-width: 320px) and (max-width: 375px) {
+				padding: 0px 0px 10px 0px;
+				width: 100%;
+				text-align: center;
+				h1 {
+					font-size: 29px;
+				}
+			}
+		}
+		.forma {
+			background-color: rgba(0,0,0,0.87);
+			padding: 29px 43px 25px;
+			border: 1px solid rgba(255,255,255, 0.4);
+			h3 {
+				color: #fff;
+				font-size: 23px;
+				margin-bottom: 18px;
+				font-weight: 600;
+				span {
+					color: #fda015;
+					font-size: 23px;
+					font-weight: 600;
+				}
+			}
+			.op {
+				margin-top: 30px;
+				p {
+					color: #fff;
+					font-weight: 600;
+				}
+				h3 {
+					margin-top: 0px;
+				}
+			}
+			::-webkit-input-placeholder       {text-indent: 0px;   transition: text-indent 0.3s ease; font-weight: 600; font-family: 'Roboto';}
+			::-moz-placeholder                {text-indent: 0px;   transition: text-indent 0.3s ease; font-weight: 600; font-family: 'Roboto';}
+			:-moz-placeholder                 {text-indent: 0px;   transition: text-indent 0.3s ease; font-weight: 600; font-family: 'Roboto';}
+			:-ms-input-placeholder            {text-indent: 0px;   transition: text-indent 0.3s ease; font-weight: 600; font-family: 'Roboto';}
+			:focus::-webkit-input-placeholder {text-indent: 500px; transition: text-indent 0.3s ease; font-weight: 600; font-family: 'Roboto';}
+			:focus::-moz-placeholder          {text-indent: 500px; transition: text-indent 0.3s ease; font-weight: 600; font-family: 'Roboto';}
+			:focus:-moz-placeholder           {text-indent: 500px; transition: text-indent 0.3s ease; font-weight: 600; font-family: 'Roboto';}
+			:focus:-ms-input-placeholder      {text-indent: 500px; transition: text-indent 0.3s ease; font-weight: 600; font-family: 'Roboto';}
+			.form-control {
+				border-radius: 0px;
+				height: 48px;
+				border:1px solid #d1d1d1;
+				outline: none  !important;
+				font-family: 'Roboto';
+				
+			}
+			.btn {
+				border-radius: 0px;
+				background-color: #ffdd02;
+				border-color: transparent !important; 
+				outline: none  !important;
+				text-shadow: 1px 0px 1px rgba($color-text, 0.6); 
+			}
+		}
+	}
+}
+
+#header2 {
+	background: url('../img/fon3.jpg') no-repeat;
+	background-position: 50% 7%;
+	padding-bottom: 1.5em;
+	@media screen and (min-width: 320px) and (max-width: 768px) {
+		background-size: cover;
+		max-height: 100%;
+		background: darken($white, 5%);
+	}
+	.navbar-default {
+		background-color: transparent;
+		border-color: transparent;
+		padding-top: 10px;
+	}
+	.navbar-default .navbar-nav>.active>a, 
+	.navbar-default .navbar-nav>.active>a:focus, 
+	.navbar-default .navbar-nav>.active>a:hover {
+		background-color: transparent;
+		color: #fe9800;
+	}
+	.navbar-default .navbar-nav>li>a {
+		color: $black;
+		font-size: 16px;
+		font-family: 'Roboto';
+		font-weight: 600;
+	}
+	.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+		color: #fe9800;
+	}
+	.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+		margin-top: 20px;
+	}
+	.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+		border-color: transparent;
+	}
+	.navbar-toggle {
+		background-color: $black;
+	}
+	.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+		background-color: $black;
+	}
+	.navbar-default .navbar-toggle .icon-bar {
+		background-color: #fda015;
+	}
+	.navbar-toggle {
+		border: 1px solid transparent;
+    border-radius: 0px;
+	}
+	.navbar-toggle .icon-bar {
+		width: 25px;
+    height: 4px;
+    border-radius: 0px;
+	}
+}
+
+/*Catalog на главной странице*/
+#catalog {
+	background: url('../img/catalog-fon.jpg') no-repeat;
+	background-position: 50% 0%;
+	margin-top: 1em;
+	margin-bottom: 3em;
+	@media screen and (min-width: 320px) and (max-width: 768px) {
+		height: 100%
+	}
+	h3 {
+		font-family: $font-mus9;
+		margin-top: 39px;
+		margin-bottom: 25px;
+	}
+	.box-c  {
+		margin-top: 10px;
+		height: 195px;
+		a {
+			color: $color-text;
+			text-decoration: none;
+			transition: all .2s ease-in-out; 
+			.box-i {
+				
+				height: 100px;
+				img {
+					max-width: 160px;
+					width: 100%;
+				}
+			}
+			p {
+				margin-top: 25px;
+				margin-bottom: 56px;
+				font-weight: 600;
+			}
+		}
+		&:hover {
+			a {
+				color: $orange;
+			}
+		}
+	}
+}
+
+/*Catalog каталог*/
+#catalog2 {
+	background: url('../img/catalog-fon.jpg') no-repeat;
+	background-position: 50% 0%;
+	margin-top: 3em;
+	margin-bottom: 3em;
+	@media screen and (min-width: 320px) and (max-width: 768px) {
+		height: 100%
+	}
+	h3 {
+		font-family:$font-mus9;
+		margin-top: 39px;
+		margin-bottom: 55px;
+	}
+	.cat_menu {
+		background: darken($white, 2%);
+		padding: 15px 15px 25px;
+		border-radius: 4px;
+		border: 1px solid darken($white, 4%);
+		box-shadow: 1px 1px 15px darken($white, 35%);
+		margin-bottom: 3em;
+		h5 {
+			margin-bottom: 15px;
+			padding-left: 15px;
+			font-family:$font-mus9;
+			border-left: 3px solid #333;
+		}
+		span.ur {
+			margin-left: 5px;
+		}
+		ul.menu_cat, ul.nav {
+			border-top: 1px solid rgba(0,0,0, 0.2);
+			padding-top: 10px;
+
+			li {
+				margin-bottom: 5px;
+				a {
+					font-size: 12px;
+					color: $black;
+					font-family: 'Roboto';
+					font-weight: 500;
+					line-height: 1.5;
+					width: 100%;
+					padding: 7px 15px;
+					border-radius: 2px;
+					transition: all .3s ease-in-out;
+					&:hover {
+						color: $white;
+						background-color: darken($white, 60%);
+					}
+				}
+			}
+		}
+	}
+	.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+		background-color: $orange;
+	}
+	.tovar {
+		
+		
+		.cat_tov {
+			position: relative;
+			overflow: hidden;
+			margin-bottom: 30px;
+			border-radius: 4px;
+			background-color: $white;
+			border: 1px solid darken($white, 4%);
+			min-height: 250px;
+			box-shadow: 1px 1px 15px darken($white, 35%);
+			figure {
+				display: inline-block;
+				top: 0px;
+				height: 175px;
+				overflow: hidden;
+				img {
+					transform: scale(1);
+					transition: all .3s ease-in-out; 
+					width: 100%;
+
+				}
+			}
+			figcaption {
+				background:$white;
+				padding: 20px 20px;
+				h2 {
+					font-size: 2.5rem;
+					color: #4383ae;
+					font-weight: 300;
+				}
+			}
+			.btn {
+				border-radius: 0px;
+				background-color: #ffdd02;
+				border-color: transparent !important; 
+				outline: none  !important;
+				text-shadow: 1px 0px 1px rgba($color-text, 0.6); 
+				color: $black;
+			}
+			&:hover {
+				figure {
+					img {
+						transform: scale(1.1);
+					}
+				}
+			}
+		}
+	}
+	.box-c  {
+		margin-top: 10px;
+		height: 195px;
+		a {
+			color: $color-text;
+			text-decoration: none;
+			transition: all .2s ease-in-out; 
+			.box-i {
+				vertical-align: middle;
+				height: 100px;
+				img {
+					max-width: 160px;
+					width: 100%;
+				}
+			}
+			p {
+				margin-top: 25px;
+				margin-bottom: 56px;
+				font-weight: 600;
+			}
+		}
+		&:hover {
+			a {
+				color: $orange;
+			}
+		}
+	}
+}
+
+#preim {
+	background: url('../img/preim-fon.jpg') no-repeat;
+	background-position: 50% 0%;
+	padding-bottom: 4em;
+	background-size: cover;
+	h3 {
+		font-family:$font-mus9;
+		margin-top: 39px;
+		margin-bottom: 25px;
+		color: #fff;
+	}
+	.box-ico {
+		margin-bottom: 3em;
+		.box-i {
+			height: 70px;
+			margin-top: 50px;
+			position: relative;
+			img {
+				bottom: 0px;
+			}
+		}
+		h5 {
+			color:#fff;
+			font-size: 18px;
+		}
+	} 
+	.btn-warning {
+		height: 50px;
+		background-color: #ffdd02;
+		color: $color-text;
+		text-shadow: 1px 0px 1px rgba($color-text, 0.6); 
+		font-size: 18px;
+		padding-left: 40px;
+		padding-right: 40px;
+		border-radius: 0px;
+		outline: none;
+		@media screen and (min-width: 320px) and (max-width: 768px) {
+			padding-left: 5px;
+			padding-right: 5px;
+			font-size: 16px;
+		}
+	}
+} 
+.arcticmodal-container_i {
+	h4 {
+		margin-bottom: 1em;
+		color: $white;
+	}
+	label.for {
+		color: $white;
+		font-family: 'Roboto';
+	}
+	::-webkit-input-placeholder       {text-indent: 0px;   transition: text-indent 0.3s ease; font-weight: 600; font-family: 'Roboto';}
+			::-moz-placeholder                {text-indent: 0px;   transition: text-indent 0.3s ease; font-weight: 600; font-family: 'Roboto';}
+			:-moz-placeholder                 {text-indent: 0px;   transition: text-indent 0.3s ease; font-weight: 600; font-family: 'Roboto';}
+			:-ms-input-placeholder            {text-indent: 0px;   transition: text-indent 0.3s ease; font-weight: 600; font-family: 'Roboto';}
+			:focus::-webkit-input-placeholder {text-indent: 500px; transition: text-indent 0.3s ease; font-weight: 600; font-family: 'Roboto';}
+			:focus::-moz-placeholder          {text-indent: 500px; transition: text-indent 0.3s ease; font-weight: 600; font-family: 'Roboto';}
+			:focus:-moz-placeholder           {text-indent: 500px; transition: text-indent 0.3s ease; font-weight: 600; font-family: 'Roboto';}
+			:focus:-ms-input-placeholder      {text-indent: 500px; transition: text-indent 0.3s ease; font-weight: 600; font-family: 'Roboto';}
+			.form-control {
+				border-radius: 0px;
+				height: 48px;
+				border:1px solid #d1d1d1;
+				outline: none  !important;
+				font-family: 'Roboto';
+				
+			}
+}
+
+#partner {
+	padding-bottom: 3em;
+	background-color: darken($white, 3%);
+	h3 {
+		font-family:$font-mus9;
+		margin-top: 39px;
+		margin-bottom: 25px;
+	}
+	.slick-slide {
+		outline: none !important;
+		position: relative;
+    height: 10em; 
+    img {
+    	position: absolute;
+	    top: 0;
+	    left: 0;
+	    bottom: 0;
+	    right: 0;
+	    margin: auto;
+	    max-width: 100%;
+	    max-height: 100%;
+	    padding-right: 15px;
+    }
+	}
+}
+
+#contacts {
+	padding-bottom: 0em;
+	background-color: darken($white, 1%);
+	h3 {
+		font-family:$font-mus9;
+		margin-top: 39px;
+		margin-bottom: 25px;
+	}
+	.contact {
+		height: 385px;
+		background-position: 50% 0%;
+		#map {		
+			box-shadow: 1px 1px 15px darken($white, 35%);
+			border: 2px solid rgba($white, 0.3); 
+			.block-cont {
+				background-color: rgba($black,.7);
+				padding: 29px 43px 25px;
+				margin: 3em 0em;
+				position: absolute;
+	    	z-index: 3;
+				address {
+					strong {
+						color: $orange;
+						font-family:'Museo Sans Cyrl 900';
+					}
+					color: $white;
+					font-size: 18px;
+					font-family: 'Roboto';
+					a {
+						color: $white;
+					}
+				}
+			}
+		}
+	}
+	
+}
+
+#contacts2 {
+	background: url('../img/fon-cont.jpg') no-repeat;
+	background-position: 50% 0%;
+	padding-top: 4em;
+	padding-bottom: 6em;
+	background-size: cover;
+	.obSvaz {
+			background-color: rgba(0,0,0,0.7);
+			padding: 29px 43px 55px;
+			::-webkit-input-placeholder       {text-indent: 0px;   transition: text-indent 0.3s ease; font-weight: 600; font-family: 'Roboto';}
+			::-moz-placeholder                {text-indent: 0px;   transition: text-indent 0.3s ease; font-weight: 600; font-family: 'Roboto';}
+			:-moz-placeholder                 {text-indent: 0px;   transition: text-indent 0.3s ease; font-weight: 600; font-family: 'Roboto';}
+			:-ms-input-placeholder            {text-indent: 0px;   transition: text-indent 0.3s ease; font-weight: 600; font-family: 'Roboto';}
+			:focus::-webkit-input-placeholder {text-indent: 500px; transition: text-indent 0.3s ease; font-weight: 600; font-family: 'Roboto';}
+			:focus::-moz-placeholder          {text-indent: 500px; transition: text-indent 0.3s ease; font-weight: 600; font-family: 'Roboto';}
+			:focus:-moz-placeholder           {text-indent: 500px; transition: text-indent 0.3s ease; font-weight: 600; font-family: 'Roboto';}
+			:focus:-ms-input-placeholder      {text-indent: 500px; transition: text-indent 0.3s ease; font-weight: 600; font-family: 'Roboto';}
+			label {
+				color: $white;
+			}
+			.form-control {
+				border-radius: 0px;
+				height: 38px;
+				border:1px solid #d1d1d1;
+				outline: none  !important;
+				font-family: 'Roboto';
+				
+			}
+			.st {
+				border-radius: 0px;
+				height: 98px;
+				border:1px solid #d1d1d1;
+				outline: none  !important;
+				font-family: 'Roboto';
+				
+			}
+			.btn {
+				border-radius: 0px;
+				background-color: #ffdd02;
+				border-color: transparent !important; 
+				outline: none  !important;
+				text-shadow: 1px 0px 1px rgba($color-text, 0.6); 
+			}
+		}
+}
+
+#map {
+	height: 385px;
+}
+
+#footer {
+	background: url('../img/footer.jpg') no-repeat;
+	background-position: 50% 0%;
+	background-size: cover;
+	padding-top: 4em;
+	padding-bottom: 4em;
+	h4 {
+		color: #ff9500;
+		font-family:$font-mus9;
+		margin-bottom: 2em;
+	}
+	h3 {
+		margin-top: 10px;
+		color: #ffdd02;
+	}
+	h4.mail {
+		color: #ffdd02;
+		font-family: 'Roboto';
+		font-weight: 600;
+	} 
+	h5 {
+		color: $white;
+	}
+	ul li a {
+		color: $white;
+		font-family: 'Roboto';
+		font-weight: 600;
+		text-decoration: none;
+		&:hover,
+		&:active,
+		&:focus {
+			color: #ff9500;
+			text-decoration: none;
+		}
+	}
+=======
 /*Fonts*/
 @import "http://webfonts.ru/import/roboto.css";
 /*font-family: 'Roboto';*/
@@ -243,4 +893,8 @@ p {
 			text-decoration: none;
 		}
 	}
+<<<<<<< HEAD
+=======
+>>>>>>> origin/master
+>>>>>>> ilizium
 }

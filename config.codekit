@@ -2,6 +2,27 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "19127",
 "files": {
+<<<<<<< HEAD
+=======
+	"\/catalog.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/catalog.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/contact.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/contact.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+>>>>>>> ilizium
 	"\/css\/bootstrap-theme.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -74,6 +95,75 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+<<<<<<< HEAD
+=======
+	"\/img\/25.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4675,
+		"inputAbbreviatedPath": "\/img\/25.jpg",
+		"outputAbbreviatedPath": "\/img\/25.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6972,
+		"inputAbbreviatedPath": "\/img\/8.jpg",
+		"outputAbbreviatedPath": "\/img\/8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/8608.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 201455,
+		"inputAbbreviatedPath": "\/img\/8608.png",
+		"outputAbbreviatedPath": "\/img\/8608.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/9-500x500.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 107161,
+		"inputAbbreviatedPath": "\/img\/9-500x500.png",
+		"outputAbbreviatedPath": "\/img\/9-500x500.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/9113.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11354,
+		"inputAbbreviatedPath": "\/img\/9113.jpg",
+		"outputAbbreviatedPath": "\/img\/9113.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/big_fb0bc4c.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 304952,
+		"inputAbbreviatedPath": "\/img\/big_fb0bc4c.jpeg",
+		"outputAbbreviatedPath": "\/img\/big_fb0bc4c.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+>>>>>>> ilizium
 	"\/img\/bus.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -96,17 +186,82 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+<<<<<<< HEAD
+=======
+	"\/img\/Cat.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41795,
+		"inputAbbreviatedPath": "\/img\/Cat.png",
+		"outputAbbreviatedPath": "\/img\/Cat.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+>>>>>>> ilizium
 	"\/img\/catalog-fon.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
+<<<<<<< HEAD
 		"initialSize": 163476,
+=======
+		"initialSize": 52178,
+>>>>>>> ilizium
 		"inputAbbreviatedPath": "\/img\/catalog-fon.jpg",
 		"outputAbbreviatedPath": "\/img\/catalog-fon.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+<<<<<<< HEAD
+=======
+	"\/img\/catalog-fon1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 134033,
+		"inputAbbreviatedPath": "\/img\/catalog-fon1.jpg",
+		"outputAbbreviatedPath": "\/img\/catalog-fon1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/engine_harvester.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30222,
+		"inputAbbreviatedPath": "\/img\/engine_harvester.png",
+		"outputAbbreviatedPath": "\/img\/engine_harvester.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ev.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 70343,
+		"inputAbbreviatedPath": "\/img\/ev.jpg",
+		"outputAbbreviatedPath": "\/img\/ev.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/fon-cont.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40793,
+		"inputAbbreviatedPath": "\/img\/fon-cont.jpg",
+		"outputAbbreviatedPath": "\/img\/fon-cont.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+>>>>>>> ilizium
 	"\/img\/fon.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -118,6 +273,42 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+<<<<<<< HEAD
+=======
+	"\/img\/fon2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 696023,
+		"inputAbbreviatedPath": "\/img\/fon2.jpg",
+		"outputAbbreviatedPath": "\/img\/fon2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/fon3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 369359,
+		"inputAbbreviatedPath": "\/img\/fon3.jpg",
+		"outputAbbreviatedPath": "\/img\/fon3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/fon4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 161469,
+		"inputAbbreviatedPath": "\/img\/fon4.jpg",
+		"outputAbbreviatedPath": "\/img\/fon4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+>>>>>>> ilizium
 	"\/img\/footer.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -140,6 +331,42 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+<<<<<<< HEAD
+=======
+	"\/img\/Hyundai-Heavy-Industries-Logo-EPS-vector-image.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20951,
+		"inputAbbreviatedPath": "\/img\/Hyundai-Heavy-Industries-Logo-EPS-vector-image.png",
+		"outputAbbreviatedPath": "\/img\/Hyundai-Heavy-Industries-Logo-EPS-vector-image.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/image002.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34616,
+		"inputAbbreviatedPath": "\/img\/image002.png",
+		"outputAbbreviatedPath": "\/img\/image002.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/img1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 237562,
+		"inputAbbreviatedPath": "\/img\/img1.jpg",
+		"outputAbbreviatedPath": "\/img\/img1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+>>>>>>> ilizium
 	"\/img\/kran.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -184,6 +411,53 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+<<<<<<< HEAD
+=======
+	"\/img\/map-test.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 341305,
+		"inputAbbreviatedPath": "\/img\/map-test.jpg",
+		"outputAbbreviatedPath": "\/img\/map-test.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/nefaz_4208-24_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 504559,
+		"inputAbbreviatedPath": "\/img\/nefaz_4208-24_1.jpg",
+		"outputAbbreviatedPath": "\/img\/nefaz_4208-24_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/o6f0g.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65327,
+		"inputAbbreviatedPath": "\/img\/o6f0g.jpg",
+		"outputAbbreviatedPath": "\/img\/o6f0g.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/original_b34c1a7d88907d02.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 105358,
+		"inputAbbreviatedPath": "\/img\/original_b34c1a7d88907d02.png",
+		"outputAbbreviatedPath": "\/img\/original_b34c1a7d88907d02.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+>>>>>>> ilizium
 	"\/img\/pay.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -199,7 +473,11 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
+<<<<<<< HEAD
 		"initialSize": 21464,
+=======
+		"initialSize": 251995,
+>>>>>>> ilizium
 		"inputAbbreviatedPath": "\/img\/pog.png",
 		"outputAbbreviatedPath": "\/img\/pog.png",
 		"outputPathIsOutsideProject": 0,
@@ -217,6 +495,7 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+<<<<<<< HEAD
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -335,6 +614,1147 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"shouldRunAutoprefixer": 0,
+=======
+	"\/img\/pric.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56259,
+		"inputAbbreviatedPath": "\/img\/pric.jpg",
+		"outputAbbreviatedPath": "\/img\/pric.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/sp.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 86566,
+		"inputAbbreviatedPath": "\/img\/sp.jpg",
+		"outputAbbreviatedPath": "\/img\/sp.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.04722e+06,
+		"inputAbbreviatedPath": "\/img\/technics\/1.png",
+		"outputAbbreviatedPath": "\/img\/technics\/1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/112702745_w640_h640_kompressory_vi__e_zif_mzsa.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 361591,
+		"inputAbbreviatedPath": "\/img\/technics\/112702745_w640_h640_kompressory_vi__e_zif_mzsa.png",
+		"outputAbbreviatedPath": "\/img\/technics\/112702745_w640_h640_kompressory_vi__e_zif_mzsa.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/13872_html_m6587015a.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 248094,
+		"inputAbbreviatedPath": "\/img\/technics\/13872_html_m6587015a.png",
+		"outputAbbreviatedPath": "\/img\/technics\/13872_html_m6587015a.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/2503.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 275707,
+		"inputAbbreviatedPath": "\/img\/technics\/2503.png",
+		"outputAbbreviatedPath": "\/img\/technics\/2503.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/333333333_rrrrrrrrrr1_145916032433.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85069,
+		"inputAbbreviatedPath": "\/img\/technics\/333333333_rrrrrrrrrr1_145916032433.png",
+		"outputAbbreviatedPath": "\/img\/technics\/333333333_rrrrrrrrrr1_145916032433.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/348.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 154783,
+		"inputAbbreviatedPath": "\/img\/technics\/348.jpg",
+		"outputAbbreviatedPath": "\/img\/technics\/348.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/3916556.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 196179,
+		"inputAbbreviatedPath": "\/img\/technics\/3916556.png",
+		"outputAbbreviatedPath": "\/img\/technics\/3916556.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/3b4b76dccb58cc2eeff5654b5b73940af573e5ab.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23581,
+		"inputAbbreviatedPath": "\/img\/technics\/3b4b76dccb58cc2eeff5654b5b73940af573e5ab.png",
+		"outputAbbreviatedPath": "\/img\/technics\/3b4b76dccb58cc2eeff5654b5b73940af573e5ab.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/4d74d09fcd69809f84b1425145cd0e7f.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 355585,
+		"inputAbbreviatedPath": "\/img\/technics\/4d74d09fcd69809f84b1425145cd0e7f.png",
+		"outputAbbreviatedPath": "\/img\/technics\/4d74d09fcd69809f84b1425145cd0e7f.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/5.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99831,
+		"inputAbbreviatedPath": "\/img\/technics\/5.png",
+		"outputAbbreviatedPath": "\/img\/technics\/5.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/559ce95f647d45a76cca5051de81a5c1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 438432,
+		"inputAbbreviatedPath": "\/img\/technics\/559ce95f647d45a76cca5051de81a5c1.png",
+		"outputAbbreviatedPath": "\/img\/technics\/559ce95f647d45a76cca5051de81a5c1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/615x468.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 96368,
+		"inputAbbreviatedPath": "\/img\/technics\/615x468.png",
+		"outputAbbreviatedPath": "\/img\/technics\/615x468.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/935911-2-580x580.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 170098,
+		"inputAbbreviatedPath": "\/img\/technics\/935911-2-580x580.png",
+		"outputAbbreviatedPath": "\/img\/technics\/935911-2-580x580.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/autograder2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 96820,
+		"inputAbbreviatedPath": "\/img\/technics\/autograder2.png",
+		"outputAbbreviatedPath": "\/img\/technics\/autograder2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/avtobetonosmesitel-58147-na-baze-kamaz_6f09222162efd5a_800x600.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 235767,
+		"inputAbbreviatedPath": "\/img\/technics\/avtobetonosmesitel-58147-na-baze-kamaz_6f09222162efd5a_800x600.png",
+		"outputAbbreviatedPath": "\/img\/technics\/avtobetonosmesitel-58147-na-baze-kamaz_6f09222162efd5a_800x600.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/bak.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30242,
+		"inputAbbreviatedPath": "\/img\/technics\/bak.png",
+		"outputAbbreviatedPath": "\/img\/technics\/bak.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/bara.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 276130,
+		"inputAbbreviatedPath": "\/img\/technics\/bara.png",
+		"outputAbbreviatedPath": "\/img\/technics\/bara.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/benzo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 354535,
+		"inputAbbreviatedPath": "\/img\/technics\/benzo.png",
+		"outputAbbreviatedPath": "\/img\/technics\/benzo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/Betononacosy.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 218409,
+		"inputAbbreviatedPath": "\/img\/technics\/Betononacosy.png",
+		"outputAbbreviatedPath": "\/img\/technics\/Betononacosy.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/board_big.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 83768,
+		"inputAbbreviatedPath": "\/img\/technics\/board_big.png",
+		"outputAbbreviatedPath": "\/img\/technics\/board_big.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/car_scania.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89087,
+		"inputAbbreviatedPath": "\/img\/technics\/car_scania.png",
+		"outputAbbreviatedPath": "\/img\/technics\/car_scania.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/ccfeae3927c6.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 427482,
+		"inputAbbreviatedPath": "\/img\/technics\/ccfeae3927c6.png",
+		"outputAbbreviatedPath": "\/img\/technics\/ccfeae3927c6.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/CDM835E.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 87267,
+		"inputAbbreviatedPath": "\/img\/technics\/CDM835E.png",
+		"outputAbbreviatedPath": "\/img\/technics\/CDM835E.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/dynapac.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 718287,
+		"inputAbbreviatedPath": "\/img\/technics\/dynapac.png",
+		"outputAbbreviatedPath": "\/img\/technics\/dynapac.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/ekskavator5.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 115879,
+		"inputAbbreviatedPath": "\/img\/technics\/ekskavator5.png",
+		"outputAbbreviatedPath": "\/img\/technics\/ekskavator5.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/excavator.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 179403,
+		"inputAbbreviatedPath": "\/img\/technics\/excavator.png",
+		"outputAbbreviatedPath": "\/img\/technics\/excavator.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/f702735184002adfee51b231db944620.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 321522,
+		"inputAbbreviatedPath": "\/img\/technics\/f702735184002adfee51b231db944620.png",
+		"outputAbbreviatedPath": "\/img\/technics\/f702735184002adfee51b231db944620.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/gazelle_elongated.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 142584,
+		"inputAbbreviatedPath": "\/img\/technics\/gazelle_elongated.png",
+		"outputAbbreviatedPath": "\/img\/technics\/gazelle_elongated.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/Geo-Events-Gen-300x225.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80877,
+		"inputAbbreviatedPath": "\/img\/technics\/Geo-Events-Gen-300x225.png",
+		"outputAbbreviatedPath": "\/img\/technics\/Geo-Events-Gen-300x225.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/gidromolot.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 165479,
+		"inputAbbreviatedPath": "\/img\/technics\/gidromolot.png",
+		"outputAbbreviatedPath": "\/img\/technics\/gidromolot.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/gl_5_0_681_medium.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 436878,
+		"inputAbbreviatedPath": "\/img\/technics\/gl_5_0_681_medium.png",
+		"outputAbbreviatedPath": "\/img\/technics\/gl_5_0_681_medium.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/imidzh-9942r2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91711,
+		"inputAbbreviatedPath": "\/img\/technics\/imidzh-9942r2.png",
+		"outputAbbreviatedPath": "\/img\/technics\/imidzh-9942r2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/iveco-daily.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 216751,
+		"inputAbbreviatedPath": "\/img\/technics\/iveco-daily.png",
+		"outputAbbreviatedPath": "\/img\/technics\/iveco-daily.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/JD114042_ce_642X462.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 256562,
+		"inputAbbreviatedPath": "\/img\/technics\/JD114042_ce_642X462.png",
+		"outputAbbreviatedPath": "\/img\/technics\/JD114042_ce_642X462.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/kamazvodovoz-300x200.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65181,
+		"inputAbbreviatedPath": "\/img\/technics\/kamazvodovoz-300x200.png",
+		"outputAbbreviatedPath": "\/img\/technics\/kamazvodovoz-300x200.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/KS-45717A-1_000.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 622098,
+		"inputAbbreviatedPath": "\/img\/technics\/KS-45717A-1_000.png",
+		"outputAbbreviatedPath": "\/img\/technics\/KS-45717A-1_000.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/kupit-cement-v-chel.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 150512,
+		"inputAbbreviatedPath": "\/img\/technics\/kupit-cement-v-chel.png",
+		"outputAbbreviatedPath": "\/img\/technics\/kupit-cement-v-chel.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/maz-65015-480481.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 235548,
+		"inputAbbreviatedPath": "\/img\/technics\/maz-65015-480481.png",
+		"outputAbbreviatedPath": "\/img\/technics\/maz-65015-480481.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/N351G.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.03895e+06,
+		"inputAbbreviatedPath": "\/img\/technics\/N351G.png",
+		"outputAbbreviatedPath": "\/img\/technics\/N351G.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/original_37d2c98f7220b6d7.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 241548,
+		"inputAbbreviatedPath": "\/img\/technics\/original_37d2c98f7220b6d7.png",
+		"outputAbbreviatedPath": "\/img\/technics\/original_37d2c98f7220b6d7.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/original_caf8f175af5294d6.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 131084,
+		"inputAbbreviatedPath": "\/img\/technics\/original_caf8f175af5294d6.png",
+		"outputAbbreviatedPath": "\/img\/technics\/original_caf8f175af5294d6.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/original_debb3b9120ce96c7.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 248939,
+		"inputAbbreviatedPath": "\/img\/technics\/original_debb3b9120ce96c7.png",
+		"outputAbbreviatedPath": "\/img\/technics\/original_debb3b9120ce96c7.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/polupritcep.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 268591,
+		"inputAbbreviatedPath": "\/img\/technics\/polupritcep.png",
+		"outputAbbreviatedPath": "\/img\/technics\/polupritcep.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/smart-pile-driver-on-crawler-250x250.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44264,
+		"inputAbbreviatedPath": "\/img\/technics\/smart-pile-driver-on-crawler-250x250.png",
+		"outputAbbreviatedPath": "\/img\/technics\/smart-pile-driver-on-crawler-250x250.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/spectehnika.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 378021,
+		"inputAbbreviatedPath": "\/img\/technics\/spectehnika.png",
+		"outputAbbreviatedPath": "\/img\/technics\/spectehnika.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/u63.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 176058,
+		"inputAbbreviatedPath": "\/img\/technics\/u63.png",
+		"outputAbbreviatedPath": "\/img\/technics\/u63.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/XAHS-347-Cd.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 82906,
+		"inputAbbreviatedPath": "\/img\/technics\/XAHS-347-Cd.png",
+		"outputAbbreviatedPath": "\/img\/technics\/XAHS-347-Cd.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/yamobur2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 143445,
+		"inputAbbreviatedPath": "\/img\/technics\/yamobur2.png",
+		"outputAbbreviatedPath": "\/img\/technics\/yamobur2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/technics\/Погрузчик-с-телескопической-стрелой.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 226113,
+		"inputAbbreviatedPath": "\/img\/technics\/Погрузчик-с-телескопической-стрелой.png",
+		"outputAbbreviatedPath": "\/img\/technics\/Погрузчик-с-телескопической-стрелой.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/text_file1_166_l.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 95060,
+		"inputAbbreviatedPath": "\/img\/text_file1_166_l.jpg",
+		"outputAbbreviatedPath": "\/img\/text_file1_166_l.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/WAGNER_Logo_RGB_72dpi-300x102.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8130,
+		"inputAbbreviatedPath": "\/img\/WAGNER_Logo_RGB_72dpi-300x102.jpg",
+		"outputAbbreviatedPath": "\/img\/WAGNER_Logo_RGB_72dpi-300x102.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wood.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17531,
+		"inputAbbreviatedPath": "\/img\/wood.jpg",
+		"outputAbbreviatedPath": "\/img\/wood.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Yellow_table_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8554,
+		"inputAbbreviatedPath": "\/img\/Yellow_table_1.jpg",
+		"outputAbbreviatedPath": "\/img\/Yellow_table_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/АВТОБЕТОНОНАСОС\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16089,
+		"inputAbbreviatedPath": "\/img\/АВТОБЕТОНОНАСОС\/1.jpg",
+		"outputAbbreviatedPath": "\/img\/АВТОБЕТОНОНАСОС\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/АВТОБЕТОНОНАСОС\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15005,
+		"inputAbbreviatedPath": "\/img\/АВТОБЕТОНОНАСОС\/2.jpg",
+		"outputAbbreviatedPath": "\/img\/АВТОБЕТОНОНАСОС\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/АВТОБЕТОНОНАСОС\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18314,
+		"inputAbbreviatedPath": "\/img\/АВТОБЕТОНОНАСОС\/3.jpg",
+		"outputAbbreviatedPath": "\/img\/АВТОБЕТОНОНАСОС\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/АВТОБЕТОНОНАСОС\/4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16848,
+		"inputAbbreviatedPath": "\/img\/АВТОБЕТОНОНАСОС\/4.jpg",
+		"outputAbbreviatedPath": "\/img\/АВТОБЕТОНОНАСОС\/4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/АВТОБЕТОНОНАСОС\/5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13449,
+		"inputAbbreviatedPath": "\/img\/АВТОБЕТОНОНАСОС\/5.jpg",
+		"outputAbbreviatedPath": "\/img\/АВТОБЕТОНОНАСОС\/5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/АВТОБЕТОНОНАСОС\/6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17163,
+		"inputAbbreviatedPath": "\/img\/АВТОБЕТОНОНАСОС\/6.jpg",
+		"outputAbbreviatedPath": "\/img\/АВТОБЕТОНОНАСОС\/6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/АВТОБЕТОНОНАСОС\/7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15917,
+		"inputAbbreviatedPath": "\/img\/АВТОБЕТОНОНАСОС\/7.jpg",
+		"outputAbbreviatedPath": "\/img\/АВТОБЕТОНОНАСОС\/7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/АВТОБЕТОНОНАСОС\/8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15675,
+		"inputAbbreviatedPath": "\/img\/АВТОБЕТОНОНАСОС\/8.jpg",
+		"outputAbbreviatedPath": "\/img\/АВТОБЕТОНОНАСОС\/8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/АВТОБЕТОНОНАСОС\/9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13840,
+		"inputAbbreviatedPath": "\/img\/АВТОБЕТОНОНАСОС\/9.jpg",
+		"outputAbbreviatedPath": "\/img\/АВТОБЕТОНОНАСОС\/9.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Автовышки\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14442,
+		"inputAbbreviatedPath": "\/img\/Автовышки\/1.jpg",
+		"outputAbbreviatedPath": "\/img\/Автовышки\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Автовышки\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15127,
+		"inputAbbreviatedPath": "\/img\/Автовышки\/2.jpg",
+		"outputAbbreviatedPath": "\/img\/Автовышки\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Автовышки\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14325,
+		"inputAbbreviatedPath": "\/img\/Автовышки\/3.jpg",
+		"outputAbbreviatedPath": "\/img\/Автовышки\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Автовышки\/4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14474,
+		"inputAbbreviatedPath": "\/img\/Автовышки\/4.jpg",
+		"outputAbbreviatedPath": "\/img\/Автовышки\/4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Автовышки\/5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13943,
+		"inputAbbreviatedPath": "\/img\/Автовышки\/5.jpg",
+		"outputAbbreviatedPath": "\/img\/Автовышки\/5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Автовышки\/6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16965,
+		"inputAbbreviatedPath": "\/img\/Автовышки\/6.jpg",
+		"outputAbbreviatedPath": "\/img\/Автовышки\/6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Автовышки\/7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12720,
+		"inputAbbreviatedPath": "\/img\/Автовышки\/7.jpg",
+		"outputAbbreviatedPath": "\/img\/Автовышки\/7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Автовышки\/8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13717,
+		"inputAbbreviatedPath": "\/img\/Автовышки\/8.jpg",
+		"outputAbbreviatedPath": "\/img\/Автовышки\/8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Автовышки\/9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12853,
+		"inputAbbreviatedPath": "\/img\/Автовышки\/9.jpg",
+		"outputAbbreviatedPath": "\/img\/Автовышки\/9.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Автокраны\/а1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12853,
+		"inputAbbreviatedPath": "\/img\/Автокраны\/а1.jpg",
+		"outputAbbreviatedPath": "\/img\/Автокраны\/а1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Автокраны\/а10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14849,
+		"inputAbbreviatedPath": "\/img\/Автокраны\/а10.jpg",
+		"outputAbbreviatedPath": "\/img\/Автокраны\/а10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Автокраны\/а2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16317,
+		"inputAbbreviatedPath": "\/img\/Автокраны\/а2.jpg",
+		"outputAbbreviatedPath": "\/img\/Автокраны\/а2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Автокраны\/а3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14708,
+		"inputAbbreviatedPath": "\/img\/Автокраны\/а3.jpg",
+		"outputAbbreviatedPath": "\/img\/Автокраны\/а3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Автокраны\/а4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17721,
+		"inputAbbreviatedPath": "\/img\/Автокраны\/а4.jpg",
+		"outputAbbreviatedPath": "\/img\/Автокраны\/а4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Автокраны\/а5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14308,
+		"inputAbbreviatedPath": "\/img\/Автокраны\/а5.jpg",
+		"outputAbbreviatedPath": "\/img\/Автокраны\/а5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Автокраны\/а6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24085,
+		"inputAbbreviatedPath": "\/img\/Автокраны\/а6.jpg",
+		"outputAbbreviatedPath": "\/img\/Автокраны\/а6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Автокраны\/а7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18678,
+		"inputAbbreviatedPath": "\/img\/Автокраны\/а7.jpg",
+		"outputAbbreviatedPath": "\/img\/Автокраны\/а7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Автокраны\/а8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16385,
+		"inputAbbreviatedPath": "\/img\/Автокраны\/а8.jpg",
+		"outputAbbreviatedPath": "\/img\/Автокраны\/а8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Автокраны\/а9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12614,
+		"inputAbbreviatedPath": "\/img\/Автокраны\/а9.jpg",
+		"outputAbbreviatedPath": "\/img\/Автокраны\/а9.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Ассенизаторы\/1-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18342,
+		"inputAbbreviatedPath": "\/img\/Ассенизаторы\/1-2.jpg",
+		"outputAbbreviatedPath": "\/img\/Ассенизаторы\/1-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Ассенизаторы\/1-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12058,
+		"inputAbbreviatedPath": "\/img\/Ассенизаторы\/1-3.jpg",
+		"outputAbbreviatedPath": "\/img\/Ассенизаторы\/1-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Ассенизаторы\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15270,
+		"inputAbbreviatedPath": "\/img\/Ассенизаторы\/1.jpg",
+		"outputAbbreviatedPath": "\/img\/Ассенизаторы\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Бара\/1-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16128,
+		"inputAbbreviatedPath": "\/img\/Бара\/1-3.jpg",
+		"outputAbbreviatedPath": "\/img\/Бара\/1-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Бара\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12589,
+		"inputAbbreviatedPath": "\/img\/Бара\/1.jpg",
+		"outputAbbreviatedPath": "\/img\/Бара\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Бара\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16745,
+		"inputAbbreviatedPath": "\/img\/Бара\/2.jpg",
+		"outputAbbreviatedPath": "\/img\/Бара\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/бензовоз\/1-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14391,
+		"inputAbbreviatedPath": "\/img\/бензовоз\/1-1.jpg",
+		"outputAbbreviatedPath": "\/img\/бензовоз\/1-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/бензовоз\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16011,
+		"inputAbbreviatedPath": "\/img\/бензовоз\/1.jpg",
+		"outputAbbreviatedPath": "\/img\/бензовоз\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/бензовоз\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11326,
+		"inputAbbreviatedPath": "\/img\/бензовоз\/2.jpg",
+		"outputAbbreviatedPath": "\/img\/бензовоз\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/in-catalog.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/in-catalog.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/js\/bootstrap.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/bootstrap.js",
+		"outputAbbreviatedPath": "\/js\/min\/bootstrap-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/bootstrap.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/bootstrap.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/bootstrap.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/main.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/main.js",
+		"outputAbbreviatedPath": "\/js\/min\/main-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/npm.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/npm.js",
+		"outputAbbreviatedPath": "\/js\/min\/npm-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/slick.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/slick.js",
+		"outputAbbreviatedPath": "\/js\/min\/slick-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/slick.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/slick.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/slick.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/README.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/README.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/README.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
+	"\/sass\/main.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/main.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/sass\/main.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/main.scss",
+		"outputAbbreviatedPath": "\/css\/main.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 1,
+>>>>>>> ilizium
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		}
